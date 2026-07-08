@@ -12,12 +12,7 @@
 #
 
 <p align="center">
-  <!-- 
-    RECOMMENDED STEPS:
-    Copy "public/banner.svg" from this portfolio project and upload it directly into your GitHub Profile repository (the same repository holding your README.md). 
-    This relative reference allows GitHub to render the SVG asset, playing the animations and styles perfectly!
-  -->
-  <img src="banner.svg" width="100%" alt="Phork Soksan Banner" />
+  <img src="https://raw.githubusercontent.com/inchang369/portfolio-website/main/public/banner.svg" width="100%" alt="Phork Soksan Banner" />
 </p>
 
 ###
@@ -71,12 +66,12 @@ Greetings! I'm a passionate backend developer based in Phnom Penh, Cambodia. I e
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/inchang369">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=inchang369&show_icons=true&theme=default&bg_color=120d13&text_color=fbc7d4&title_color=e07a90&icon_color=fbc7d4&border_color=281b2a" alt="Soksan's GitHub Stats" />
+  <a href="https://github.com/Soksan369">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Soksan369&show_icons=true&theme=default&bg_color=120d13&text_color=fbc7d4&title_color=e07a90&icon_color=fbc7d4&border_color=281b2a" alt="Soksan's GitHub Stats" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/inchang369">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=inchang369&theme=default&background=120d13&text=fbc7d4&ring=e07a90&fire=fbc7d4&currStreakNum=fbc7d4&sideNums=fbc7d4&currStreakLabel=e07a90&sideLabels=e07a90&border=281b2a" alt="Soksan's Commits Streak" />
+  <a href="https://github.com/Soksan369">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Soksan369&theme=default&background=120d13&text=fbc7d4&ring=e07a90&fire=fbc7d4&currStreakNum=fbc7d4&sideNums=fbc7d4&currStreakLabel=e07a90&sideLabels=e07a90&border=281b2a" alt="Soksan's Commits Streak" />
   </a>
 </p>
 
