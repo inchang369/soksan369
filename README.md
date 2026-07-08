@@ -71,7 +71,7 @@ I enjoy optimizing database schemas and engineering robust backend systems that 
 
 <p align="center">
   <a href="https://github.com/Soksan369">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Soksan369&show_icons=true&theme=default&bg_color=120d13&text_color=fbc7d4&title_color=e07a90&icon_color=fbc7d4&border_color=281b2a" alt="Soksan's GitHub Stats" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Soksan369&show_icons=true&theme=default&bg_color=120d13&text_color=fbc7d4&title_color=e07a90&icon_color=fbc7d4&border_color=281b2a" alt="Soksan's GitHub Stats" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Soksan369">
@@ -85,9 +85,9 @@ I enjoy optimizing database schemas and engineering robust backend systems that 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soksan369/soksan369/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soksan369/soksan369/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Soksan369/soksan369/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inchang369/soksan369/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inchang369/soksan369/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inchang369/soksan369/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
