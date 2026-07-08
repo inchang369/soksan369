@@ -67,7 +67,7 @@ Greetings! I'm a passionate backend developer based in Phnom Penh, Cambodia. I e
 
 <p align="center">
   <a href="https://github.com/Soksan369">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Soksan369&show_icons=true&theme=default&bg_color=120d13&text_color=fbc7d4&title_color=e07a90&icon_color=fbc7d4&border_color=281b2a" alt="Soksan's GitHub Stats" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Soksan369&show_icons=true&theme=default&bg_color=120d13&text_color=fbc7d4&title_color=e07a90&icon_color=fbc7d4&border_color=281b2a" alt="Soksan's GitHub Stats" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Soksan369">
