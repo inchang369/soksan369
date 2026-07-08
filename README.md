@@ -75,7 +75,7 @@ I enjoy optimizing database schemas and engineering robust backend systems that 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Soksan369">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Soksan369&theme=default&background=120d13&text=fbc7d4&ring=e07a90&fire=fbc7d4&currStreakNum=fbc7d4&sideNums=fbc7d4&currStreakLabel=e07a90&sideLabels=e07a90&border=281b2a" alt="Soksan's Commits Streak" />
+    <img height="180" src="https://streak-stats.demolab.com/?user=Soksan369&theme=default&background=120d13&text=fbc7d4&ring=e07a90&fire=fbc7d4&currStreakNum=fbc7d4&sideNums=fbc7d4&currStreakLabel=e07a90&sideLabels=e07a90&border=281b2a&v=1" alt="Soksan's Commits Streak" />
   </a>
 </p>
 
